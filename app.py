@@ -53,14 +53,13 @@ if prompt:=st.chat_input(placeholder="What is Natural Language Processing?"):
 
 
 
-'''
-In Simple Words:
 
-StreamlitCallbackHandler: This is a special tool that helps show the steps or "thoughts" the chatbot agent goes through while answering a question. Think of it as a tool that provides a behind-the-scenes look at how the chatbot thinks and decides what to do next.
+## In Simple Words:
 
-st.container(): This is a part of the Streamlit app where content can be displayed. By using st.container(), we are telling Streamlit to create a space on the app's page where these "thoughts" or steps will be shown.
+## StreamlitCallbackHandler: This is a special tool that helps show the steps or "thoughts" the chatbot agent goes through while answering a question. Think of it as a tool that provides a behind-the-scenes look at how the chatbot thinks and decides what to do next.
 
-expand_new_thoughts=True: This setting means that every time the chatbot takes a new step or makes a new decision, it will automatically expand and display the details of that step in the app. This makes it easier for users to see and understand each decision the chatbot is making in real-time.
+## st.container(): This is a part of the Streamlit app where content can be displayed. By using st.container(), we are telling Streamlit to create a space on the app's page where these "thoughts" or steps will be shown.
 
-'''
+## expand_new_thoughts=True: This setting means that every time the chatbot takes a new step or makes a new decision, it will automatically expand and display the details of that step in the app. This makes it easier for users to see and understand each decision the chatbot is making in real-time.
+
 
