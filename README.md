@@ -42,7 +42,7 @@ A powerful AI research assistant that combines web search, Wikipedia, and Arxiv 
 3.  **Install the Required Dependecies:**
     ```bash
     pip install -r requirements.txt
-4. **Run the app.py to Classify IMDB Reviews :**
+4. **Run the app.py:**
     ```bash
     streamlit run app.py
 # Author:
