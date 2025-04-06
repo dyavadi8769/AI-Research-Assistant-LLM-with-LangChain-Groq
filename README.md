@@ -45,6 +45,11 @@ A powerful AI research assistant that combines web search, Wikipedia, and Arxiv 
 4. **Run the app.py:**
     ```bash
     streamlit run app.py
+
+# Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request.
+
+
 # Author:
 
 ```bash
